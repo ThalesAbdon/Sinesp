@@ -30,6 +30,13 @@ export class PlateService {
         placa: 'LWJ5981',
       },
       {
+        status: 'Roubada',
+        marca: 'GM',
+        modelo: 'Prisma',
+        ano: 2020,
+        placa: 'OSX1417',
+      },
+      {
         status: 'Ativo',
         marca: 'ExemploMarca3',
         modelo: 'ExemploModelo3',
