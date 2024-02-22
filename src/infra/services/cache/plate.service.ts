@@ -23,6 +23,13 @@ export class PlateService {
         placa: 'XYZ5678',
       },
       {
+        status: 'Roubada',
+        marca: 'GM',
+        modelo: 'Vectra',
+        ano: 2021,
+        placa: 'LWJ5981',
+      },
+      {
         status: 'Ativo',
         marca: 'ExemploMarca3',
         modelo: 'ExemploModelo3',
